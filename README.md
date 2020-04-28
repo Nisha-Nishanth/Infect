@@ -6,3 +6,18 @@ Infect is a bash based script which is officially made for termux users and from
 
 Build Status Build Status License: MIT Rawsec's CyberSecurity Inventory Stage Awesome
 
+  
+
+
+  Steps for installing:
+       $ apt-get update -y
+
+       $ apt-get upgrade -y
+
+       $ pkg install python -y 
+
+       $ pkg install python2 -y
+
+       $ pkg install git -y
+
+       $ pip install lolcat
