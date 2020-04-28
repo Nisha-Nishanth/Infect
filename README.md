@@ -1,6 +1,8 @@
-    A new way to speard dangerous virus... (Just link)
+ Infect v1.1
+A new way to spread a fun as virus by just sending link in android.
 
+?? About Infect:
+Infect is a bash based script which is officially made for termux users and from this tool you can spread android virus by just sending link. This tool works on both rooted Android device and Non-rooted Android device.
 
-Use this script for your own risk...
-I am not responsible for any illegal activities...
+Build Status Build Status License: MIT Rawsec's CyberSecurity Inventory Stage Awesome
 
